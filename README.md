@@ -29,3 +29,4 @@
 | 16. Powers of 2 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20016/Powers%20of%202.ipynb) |
 | 17. Grasshopper - Debug sayHello | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20017/Grasshopper%20-%20Debug%20sayHello.ipynb) |
 | 18. Sum Arrays | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20018/Sum%20Arrays.ipynb) |
+| 19. Count The Monkeys! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20019/Count%20the%20Monkeys!.ipynb) |
