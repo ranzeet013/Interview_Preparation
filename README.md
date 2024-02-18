@@ -31,7 +31,7 @@
 | 18. Sum Arrays | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20018/Sum%20Arrays.ipynb) |
 | 19. Count The Monkeys! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20019/Count%20the%20Monkeys!.ipynb) |
 | 20. Transportation on vacation | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20020/Transportation%20on%20vacation.ipynb) |
-
+| 21. Keep Hydrated! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20021/Keep%20Hydrated!.ipynb) |
 
 
 
