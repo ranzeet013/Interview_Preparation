@@ -33,7 +33,7 @@
 | 20. Transportation on vacation | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20020/Transportation%20on%20vacation.ipynb) |
 | 21. Keep Hydrated! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20021/Keep%20Hydrated!.ipynb) |
 | 22. Opposite Number | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20022/Opposite%20number.ipynb) |
-
+| 23. Convert a String to a Number! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20023/Convert%20a%20String%20to%20a%20Number!.ipynb) |
 
 
 
