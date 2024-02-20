@@ -35,7 +35,7 @@
 | 22. Opposite Number | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20022/Opposite%20number.ipynb) |
 | 23. Convert a String to a Number! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20023/Convert%20a%20String%20to%20a%20Number!.ipynb) |
 | 24. Is this a triangle? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20024/Is%20this%20a%20triangle..ipynb) |
-
+| 25. Array plus array | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20025/Array%20plus%20array.ipynb) |
 
 
 
