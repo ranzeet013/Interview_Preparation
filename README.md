@@ -37,7 +37,7 @@
 | 24. Is this a triangle? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20024/Is%20this%20a%20triangle..ipynb) |
 | 25. Array plus array | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20025/Array%20plus%20array.ipynb) |
 | 26. Century From Year | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20026/Century%20From%20Year.ipynb) |
-
+| 27. Area or Perimeter | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20027/Area%20or%20Perimeter.ipynb) |
 
 
 
