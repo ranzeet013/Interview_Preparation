@@ -40,7 +40,7 @@
 | 27. Area or Perimeter | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20027/Area%20or%20Perimeter.ipynb) |
 | 28. Who likes it? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20028/Who%20likes%20it.ipynb) |
 | 29. Building blocks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20029/Building%20blocks.ipynb) |
-
+| 30. Counting sheep... | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20030/Counting%20sheep....ipynb) |
 
 
 
