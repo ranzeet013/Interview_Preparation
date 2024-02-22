@@ -39,7 +39,7 @@
 | 26. Century From Year | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20026/Century%20From%20Year.ipynb) |
 | 27. Area or Perimeter | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20027/Area%20or%20Perimeter.ipynb) |
 | 28. Who likes it? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20028/Who%20likes%20it.ipynb) |
-
+| 29. Building blocks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20029/Building%20blocks.ipynb) |
 
 
 
