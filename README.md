@@ -45,3 +45,4 @@
 | 32. Regex validate PIN code | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20032/Regex%20validate%20PIN%20code.ipynb) |
 | 33. Friend or Foe? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20033/Friend%20or%20Foe.ipynb) |
 | 34. Reversed Words | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20034/Reversed%20Words.ipynb) |
+| 35. Sort the odd | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20035/Sort%20the%20odd.ipynb) |
