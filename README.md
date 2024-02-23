@@ -43,5 +43,5 @@
 | 30. Counting sheep... | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20030/Counting%20sheep....ipynb) |
 | 31. Grasshopper - Grade book | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20031/Grasshopper%20-%20Grade%20book.ipynb) |
 | 32. Regex validate PIN code | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20032/Regex%20validate%20PIN%20code.ipynb) |
-
+| 33. Friend or Foe? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20033/Friend%20or%20Foe.ipynb) |
 
