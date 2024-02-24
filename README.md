@@ -50,5 +50,5 @@
 | 37. Mumbling | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20037/Mumbling.ipynb) |
 | 38. Sum of two lowest positive integers | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20038/Sum%20of%20two%20lowest%20positive%20integers.ipynb) |
 | 39. Volume of a Cuboid? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20039/Volume%20of%20a%20Cuboid.ipynb) |
-| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 40. You're a square! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20040/You're%20a%20square!.ipynb) |
 
