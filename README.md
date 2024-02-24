@@ -46,3 +46,9 @@
 | 33. Friend or Foe? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20033/Friend%20or%20Foe.ipynb) |
 | 34. Reversed Words | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20034/Reversed%20Words.ipynb) |
 | 35. Sort the odd | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20035/Sort%20the%20odd.ipynb) |
+| 36. DNA to RNA Conversion | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20036/DNA%20to%20RNA%20Conversion.ipynb) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+
