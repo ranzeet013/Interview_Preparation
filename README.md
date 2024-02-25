@@ -51,4 +51,13 @@
 | 38. Sum of two lowest positive integers | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20038/Sum%20of%20two%20lowest%20positive%20integers.ipynb) |
 | 39. Volume of a Cuboid? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20039/Volume%20of%20a%20Cuboid.ipynb) |
 | 40. You're a square! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20040/You're%20a%20square!.ipynb) |
+| 41. Find Maximum and Minimum Values of a List | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20041/Find%20Maximum%20and%20Minimum%20Values%20of%20a%20List.ipynb) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+
+
+
+
+
 
