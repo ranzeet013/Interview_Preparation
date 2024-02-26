@@ -1,4 +1,4 @@
-# Machine Learning Interview Preparatin,
+# Machine Learning Interview Preparatin,n
 
 **RESOURCES**
 - [**LeetCode**](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&difficulty=EASY&status=NOT_STARTED)
