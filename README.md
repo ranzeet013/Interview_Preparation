@@ -56,7 +56,7 @@
 | 43. Rock Paper Scissors! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20043/Rock%20Paper%20Scissors!.ipynb) |
 | 44. Thinkful - Logic Drills: Traffic light | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20044/Thinkful%20-%20Logic%20Drills%20Traffic%20light.ipynb) |
 | 45. All Star Code Challenge #18 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20045/All%20Star%20Code%20Challenge%20%2318.ipynb) |
-| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
+| 46. FIXME Replace all dots | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20046/FIXME%20Replace%20all%20dots.ipynb) |
 | 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
 
 
