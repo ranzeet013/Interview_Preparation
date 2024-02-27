@@ -58,7 +58,9 @@
 | 45. All Star Code Challenge #18 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20045/All%20Star%20Code%20Challenge%20%2318.ipynb) |
 | 46. FIXME Replace all dots | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20046/FIXME%20Replace%20all%20dots.ipynb) |
 | 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
-
+| 48. Function 1 - hello world! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20048/Function%201%20-%20hello%20world.ipynb) |
+| 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
+| 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
 
 
 
