@@ -59,7 +59,7 @@
 | 46. FIXME Replace all dots | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20046/FIXME%20Replace%20all%20dots.ipynb) |
 | 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
 | 48. Function 1 - hello world! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20048/Function%201%20-%20hello%20world.ipynb) |
-| 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
+| 49. Printer Errors | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20049/Printer%20Errors.ipynb) |
 | 47. Sort My Textbooks | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20047/Sort%20My%20Textbooks.ipynb) |
 
 
