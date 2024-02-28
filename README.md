@@ -61,8 +61,8 @@
 | 48. Function 1 - hello world! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20048/Function%201%20-%20hello%20world.ipynb) |
 | 49. Printer Errors | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20049/Printer%20Errors.ipynb) |
 | 50. Total amount of points | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20050/Total%20amount%20of%20points.ipynb) |
-
-
+| 51. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
+| 50. Total amount of points | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20050/Total%20amount%20of%20points.ipynb) |
 
 
 
