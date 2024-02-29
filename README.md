@@ -63,9 +63,9 @@
 | 50. Total amount of points | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20050/Total%20amount%20of%20points.ipynb) |
 | 51. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
 | 52. Parts of a list. | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20052/Parts%20of%20a%20list.ipynb) |
-
-
-
+| 53. Unique In Order | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20053/Unique%20In%20Order.ipynb) |
+| 54. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
+| 55. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
 
 
 
