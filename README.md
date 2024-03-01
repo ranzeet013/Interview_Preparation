@@ -66,7 +66,8 @@
 | 53. Unique In Order | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20053/Unique%20In%20Order.ipynb) |
 | 54. Two to One | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20054/Two%20to%20One.ipynb) |
 | 55. Multiples of 3 or 5 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20055/Multiples%20of%203%20or%205.ipynb) |
-
+| 56. Disemvowel Trolls | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20056/Disemvowel%20Trolls.ipynb) |
+| 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
 
 
 
