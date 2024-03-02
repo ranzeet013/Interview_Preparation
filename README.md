@@ -69,7 +69,7 @@
 | 56. Disemvowel Trolls | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20056/Disemvowel%20Trolls.ipynb) |
 | 57. Odd or Even? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20057/Odd%20or%20Even.ipynb) |
 | 58. Jenny's secret message | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20058/Jenny's%20secret%20message.ipynb) |
-| 59. Odd or Even? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20057/Odd%20or%20Even.ipynb) |
+| 59. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
 | 60. Odd or Even? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20057/Odd%20or%20Even.ipynb) |
 
 
