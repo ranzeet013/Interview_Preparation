@@ -70,9 +70,7 @@
 | 57. Odd or Even? | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20057/Odd%20or%20Even.ipynb) |
 | 58. Jenny's secret message | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20058/Jenny's%20secret%20message.ipynb) |
 | 59. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
-| 60. Small enough? - Beginner |
-| ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20060/Small%20enough%20-%20Beginner.ipynb) |
-
+| 60. Small enough? - Beginner | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20060/Small%20enough%20-%20Beginner.ipynb) |
 
 
 
