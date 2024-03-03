@@ -80,7 +80,7 @@
 | 60. Small enough? - Beginner | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20060/Small%20enough%20-%20Beginner.ipynb) |
 | 61. Basic variable assignment | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20061/Basic%20variable%20assignment.ipynb) |
 | 62. Jaden Casing Strings | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20062/Jaden%20Casing%20Strings.ipynb) |
-| 63. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
+| 63. Merging sorted integer arrays (without duplicates) | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20063/Merging%20sorted%20integer%20arrays%20(without%20duplicates).ipynb) |
 | 64. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
 
 
