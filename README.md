@@ -9,6 +9,8 @@
 - **Machine Learning Interviews** -*Susan Shu Chang*
 - **Reliable Machine Learning** -*Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood*
 
+## Phase I
+
 | Question's Name | Status of Completion | Solution |
 | ----- | -----| ----- |
 | 1. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
@@ -61,6 +63,11 @@
 | 48. Function 1 - hello world! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20048/Function%201%20-%20hello%20world.ipynb) |
 | 49. Printer Errors | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20049/Printer%20Errors.ipynb) |
 | 50. Total amount of points | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20050/Total%20amount%20of%20points.ipynb) |
+
+## Phase II
+
+| Question's Name | Status of Completion | Solution |
+| ----- | -----| ----- |
 | 51. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
 | 52. Parts of a list. | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20052/Parts%20of%20a%20list.ipynb) |
 | 53. Unique In Order | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20053/Unique%20In%20Order.ipynb) |
@@ -71,7 +78,10 @@
 | 58. Jenny's secret message | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20058/Jenny's%20secret%20message.ipynb) |
 | 59. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
 | 60. Small enough? - Beginner | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20060/Small%20enough%20-%20Beginner.ipynb) |
-
+| 61. Basic variable assignment | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20061/Basic%20variable%20assignment.ipynb) |
+| 62. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
+| 63. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
+| 64. Pisano Period | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20059/Pisano%20Period.ipynb) |
 
 
 
