@@ -83,7 +83,7 @@
 | 63. Merging sorted integer arrays (without duplicates) | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20063/Merging%20sorted%20integer%20arrays%20(without%20duplicates).ipynb) |
 | 64. Sum of the first nth term of Series | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20064/Sum%20of%20the%20first%20nth%20term%20of%20Series.ipynb) |
 | 65. Exes and Ohs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20065/Exes%20and%20Ohs.ipynb) |
-| 66. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
+| 66. Convert a Boolean to a String | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20066/Convert%20a%20Boolean%20to%20a%20String.ipynb) |
 | 67. Misleading Signs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20051/Misleading%20Signs.ipynb) |
 
 
