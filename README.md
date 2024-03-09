@@ -85,7 +85,8 @@
 | 65. Exes and Ohs | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20065/Exes%20and%20Ohs.ipynb) |
 | 66. Convert a Boolean to a String | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20066/Convert%20a%20Boolean%20to%20a%20String.ipynb) |
 | 67. Convert boolean values to strings 'Yes' or 'No'. | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20067/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..ipynb) |
-
+| 68. Find the divisors! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20068/Find%20the%20divisors!.ipynb) |
+| 69. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
 
 
 
