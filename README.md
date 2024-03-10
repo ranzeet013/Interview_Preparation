@@ -87,7 +87,8 @@
 | 67. Convert boolean values to strings 'Yes' or 'No'. | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20067/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..ipynb) |
 | 68. Find the divisors! | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20068/Find%20the%20divisors!.ipynb) |
 | 69. Opposites Attract | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20069/Opposites%20Attract.ipynb) |
-
+| 70. Grasshopper - Personalized Message | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20070/Grasshopper%20-%20Personalized%20Message.ipynb) |
+| 71. Two Sum | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Codewars_Solution/blob/main/Solutions/kata%20001/twoSum.py) |
 
 
 
