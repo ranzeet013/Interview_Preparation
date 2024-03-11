@@ -90,7 +90,8 @@
 | 70. Grasshopper - Personalized Message | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20070/Grasshopper%20-%20Personalized%20Message.ipynb) |
 | 71. Testing 1-2-3 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20071/Testing%201-2-3.ipynb) |
 | 72. Keep up the hoop | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20072/Keep%20up%20the%20hoop.ipynb) |
-| 73. Testing 1-2-3 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20071/Testing%201-2-3.ipynb) |
+| 73. Remove String Spaces
+ | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20073/Remove%20String%20Spaces.ipynb) |
 
 
 
