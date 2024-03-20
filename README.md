@@ -91,5 +91,12 @@
 | 71. Testing 1-2-3 | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20071/Testing%201-2-3.ipynb) |
 | 72. Keep up the hoop | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20072/Keep%20up%20the%20hoop.ipynb) |
 | 73. Remove String Spaces | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20073/Remove%20String%20Spaces.ipynb) |
+| 74. A Needle in the Haystack | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20074/A%20Needle%20in%20the%20Haystack.ipynb) |
+| 75. Keep up the hoop | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20072/Keep%20up%20the%20hoop.ipynb) |
+| 76. Keep up the hoop | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20072/Keep%20up%20the%20hoop.ipynb) |
+
+
+
+
 
 
