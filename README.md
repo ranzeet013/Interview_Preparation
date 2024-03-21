@@ -95,7 +95,7 @@
 | 75. Beginner Series #2 Clock | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20075/Beginner%20Series%20%232%20Clock.ipynb) |
 | 76. Categorize New Member | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20076/Categorize%20New%20Member.ipynb) |
 | 77. Cat years, Dog years | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20077/Cat%20years%2C%20Dog%20years.ipynb) |
-| 78. Categorize New Member | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20076/Categorize%20New%20Member.ipynb) |
+| 78. Get Planet Name By ID | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20078/Get%20Planet%20Name%20By%20ID.ipynb) |
 
 
 
