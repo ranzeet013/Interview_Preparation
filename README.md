@@ -97,6 +97,6 @@
 | 77. Cat years, Dog years | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20077/Cat%20years%2C%20Dog%20years.ipynb) |
 | 78. Get Planet Name By ID | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20078/Get%20Planet%20Name%20By%20ID.ipynb) |
 | 79. Sentence Smash | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20079/Sentence%20Smash.ipynb) |
-| 80. Get Planet Name By ID | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20078/Get%20Planet%20Name%20By%20ID.ipynb) |
+| 80. Isograms | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20080/Isograms.ipynb) |
 | 81. Get Planet Name By ID | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20078/Get%20Planet%20Name%20By%20ID.ipynb) |
 
