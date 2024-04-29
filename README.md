@@ -99,4 +99,4 @@
 | 79. Sentence Smash | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20079/Sentence%20Smash.ipynb) |
 | 80. Isograms | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20080/Isograms.ipynb) |
 | 81. Sum without highest and lowest number | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20081/Sum%20without%20highest%20and%20lowest%20number.ipynb) |
-
+| 82. Sum of odd numbers | ✅✅✅✅ | [Python](https://github.com/ranzeet013/Interview_Preparation/blob/main/Solutions/kata%20082/Sum_of_odd_numbers.ipynb) |
