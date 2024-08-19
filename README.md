@@ -6,7 +6,7 @@
 
 **BOOKS**
 - **Data Structures & Algorithms in Python** -*Michael T. Goodrich*
-- **Machine Learning Interviews** -*Susan Shu Chang*
+- **Machine Learning Interviews** -*Susan Shu Chang* 
 - **Reliable Machine Learning** -*Cathy Chen, Niall Richard Murphy, Kranti Parisa, D. Sculley, Todd Underwood*
 
 ## Phase I
